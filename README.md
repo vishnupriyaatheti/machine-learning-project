@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hybrid CNN-Transformer Segmentation
 
 This small package provides a hybrid U-Net that uses a Transformer bottleneck (Vision-Transformer-style) for improved global context, suitable for brain MRI tumor segmentation.
@@ -45,3 +46,7 @@ If you want, I can also:
 
 - Add an evaluation script that computes Dice over the test set and saves some overlay visualizations.
 - Convert the model to use a pretrained MobileViT / ViT encoder from TensorFlow Hub.
+=======
+# machine-learning-project
+This respository describes the model that i built as part of my machine learning course in masters
+>>>>>>> 833388285f19062fc5cdb1e46d482abefff5d2ec
